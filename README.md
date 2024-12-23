@@ -7,7 +7,24 @@
     <meta name="keywords" content="ChatGPT中文版, ChatGPT国内版, GPT-4镜像, 免费ChatGPT镜像, ChatGPT教程">
     <meta name="author" content="chatgpt-chinese">
     <title>ChatGPT 中文版：国内镜像站推荐【支持 GPT-4 | 2024 最新】</title>
-
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "ChatGPT 中文版：国内免费镜像站推荐与使用指南【支持 GPT-4 | 2024 最新】",
+      "description": "通过本指南，了解如何在国内高效使用 ChatGPT 中文版，无需翻墙即可访问 GPT-4 功能，包括详细镜像站推荐和使用教程。",
+      "author": {
+        "@type": "loursa",
+        "name": "chatgpt_chinese"
+      },
+      "datePublished": "2024-12-23",
+      "dateModified": "2024-12-23",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://github.com/lory-b/ChatGPT_Chinese"
+      }
+    }
+    </script>
     <!-- 内联 CSS 样式 -->
     <style>
         body {
